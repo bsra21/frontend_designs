@@ -1,0 +1,3 @@
+test adında bir veritanı olusturun içe aktar
+diyerek urunler.sql dosyasını
+içe aktarın bukadar.
